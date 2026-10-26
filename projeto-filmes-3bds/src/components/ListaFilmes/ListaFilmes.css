@@ -1,0 +1,29 @@
+.divFilmes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.myimg{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.mydescription{
+    margin-top: 20px;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.myvideo{
+    margin-top: 20px;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
